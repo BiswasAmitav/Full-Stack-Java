@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29536073-3405-42de-887d-bf6a95cadcf2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Full-Stack-Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/out/production/java/decision/makig/with/java/Class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/out/production/java/decision/makig/with/java/MakingDecisionWithIfElse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/out/production/java/decision/makig/with/java/PracticeForDipto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/out/production/java/decision/makig/with/java/TernaryAndUnaryOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/out/production/java/flow/control/java/in/SwitchCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/out/production/java/methods/java/JavaMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/out/production/java/primitive/dataTyppe/BDecimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/out/production/java/primitive/dataTyppe/BooleanAndChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/out/production/java/primitive/dataTyppe/DataType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/out/production/java/primitive/dataTyppe/SolveAnEquation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/out/production/java/primitive/dataTyppe/StringBasic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/out/production/java/primitive/dataTyppe/TypeCasting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/src/decision/makig/with/java/Class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/src/decision/makig/with/java/MakingDecisionWithIfElse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/src/decision/makig/with/java/PracticeForDipto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/src/decision/makig/with/java/TernaryAndUnaryOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/src/flow/control/java/in/SwitchCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/src/methods/java/JavaMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/src/primitive/dataTyppe/BDecimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/src/primitive/dataTyppe/BooleanAndChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/src/primitive/dataTyppe/DataType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/src/primitive/dataTyppe/SolveAnEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/src/primitive/dataTyppe/StringBasic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primitive Data type/src/primitive/dataTyppe/TypeCasting.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DDYG1Hn8RGzFA4TaVgWK2lsNhl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/programming/learning-java&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29536073-3405-42de-887d-bf6a95cadcf2" name="Changes" comment="" />
+      <created>1660235023046</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660235023046</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
